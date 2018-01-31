@@ -851,6 +851,13 @@ var markersDB={
             "hovertext":"Winter dungeon",
             "z":-61,
             "text":"Winter +\n Suggested lvl: 38 - 48"
+         },
+		 {
+            "y":64,
+            "x":-9334,
+            "hovertext":"Fear dungeon [Raid]",
+            "z":4434,
+            "text":"Fear [Raid] +\n Suggested lvl: 45 - 55"
          }
       ],
       "name":"Dungeons",
