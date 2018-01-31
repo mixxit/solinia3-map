@@ -693,54 +693,251 @@ var markersDB={
    },
    "Town834a_cc2f":{
       "raw":[
-         {
-            "y":69,
-            "x":-104,
-            "hovertext":"Haven",
-            "z":395,
-            "text":"Spawn"
-         },
-         {
-            "y":69,
-            "x":1085,
-            "hovertext":"Andyr",
-            "z":1811,
-            "text":"Humanoid Town"
-         },
-         {
-            "y":69,
-            "x":-280,
-            "hovertext":"Olvasound",
-            "z":1856,
-            "text":"Elven town"
-         },
-         {
-            "y":64,
-            "x":-3075,
-            "hovertext":"HighGuard",
-            "z":509,
-            "text":"Human City, worshippers of Aenir - Level 20-30 spells here"
-         },
-         {
-            "y":64,
-            "x":-6423,
-            "hovertext":"ShaSun",
-            "z":3123,
-            "text":"Anushi Trade City"
-         },
-         {
-            "y":64,
-            "x":-9094,
-            "hovertext":"Eindel",
-            "z":3975,
-            "text":"Aerindal Trade City"
-         }
-      ],
-      "name":"Town",
-      "created":false
-   },
-   "Town834a_4bdb":{
-      "raw":[
+{
+        "x": 192,
+        "y": 64,
+        "z": 224,
+        "text": "Player Town: Morheim",
+        "hovertext": "Morheim"
+    },
+    {
+        "x": -640,
+        "y": 64,
+        "z": -224,
+        "text": "Player Town: New_Genesis",
+        "hovertext": "New_Genesis"
+    },
+    {
+        "x": -2272,
+        "y": 64,
+        "z": 192,
+        "text": "Player Town: Draconian_Isle",
+        "hovertext": "Draconian_Isle"
+    },
+    {
+        "x": -2064,
+        "y": 64,
+        "z": -80,
+        "text": "Player Town: Desolatus",
+        "hovertext": "Desolatus"
+    },
+    {
+        "x": -240,
+        "y": 64,
+        "z": 304,
+        "text": "Player Town: The_Union_of_Meles",
+        "hovertext": "The_Union_of_Meles"
+    },
+    {
+        "x": -3056,
+        "y": 64,
+        "z": 352,
+        "text": "Player Town: Highguard",
+        "hovertext": "Highguard"
+    },
+    {
+        "x": -112,
+        "y": 64,
+        "z": 368,
+        "text": "Player Town: Haven",
+        "hovertext": "Haven"
+    },
+    {
+        "x": 2064,
+        "y": 64,
+        "z": 4944,
+        "text": "Player Town: WizardSpire",
+        "hovertext": "WizardSpire"
+    },
+    {
+        "x": -2112,
+        "y": 64,
+        "z": -752,
+        "text": "Player Town: Potentia_Isle",
+        "hovertext": "Potentia_Isle"
+    },
+    {
+        "x": 288,
+        "y": 64,
+        "z": 1632,
+        "text": "Player Town: Elsinore",
+        "hovertext": "Elsinore"
+    },
+    {
+        "x": -5328,
+        "y": 64,
+        "z": 208,
+        "text": "Player Town: Soloria",
+        "hovertext": "Soloria"
+    },
+    {
+        "x": -9120,
+        "y": 64,
+        "z": 3984,
+        "text": "Player Town: Eindel",
+        "hovertext": "Eindel"
+    },
+    {
+        "x": 2736,
+        "y": 64,
+        "z": 5216,
+        "text": "Player Town: ClanGrimrock",
+        "hovertext": "ClanGrimrock"
+    },
+    {
+        "x": -592,
+        "y": 64,
+        "z": 528,
+        "text": "Player Town: Bhava",
+        "hovertext": "Bhava"
+    },
+    {
+        "x": 1056,
+        "y": 64,
+        "z": 1728,
+        "text": "Player Town: Andyr",
+        "hovertext": "Andyr"
+    },
+    {
+        "x": -1392,
+        "y": 64,
+        "z": 96,
+        "text": "Player Town: DruidRing",
+        "hovertext": "DruidRing"
+    },
+    {
+        "x": -48,
+        "y": 64,
+        "z": 3984,
+        "text": "Player Town: Romarod",
+        "hovertext": "Romarod"
+    },
+    {
+        "x": 208,
+        "y": 64,
+        "z": 1264,
+        "text": "Player Town: Nagul_Rock",
+        "hovertext": "Nagul_Rock"
+    },
+    {
+        "x": -7104,
+        "y": 64,
+        "z": -2016,
+        "text": "Player Town: Frosthaven",
+        "hovertext": "Frosthaven"
+    },
+    {
+        "x": 1632,
+        "y": 64,
+        "z": 2848,
+        "text": "Player Town: LostTemple",
+        "hovertext": "LostTemple"
+    },
+    {
+        "x": 464,
+        "y": 64,
+        "z": 2688,
+        "text": "Player Town: Funga",
+        "hovertext": "Funga"
+    },
+    {
+        "x": 1008,
+        "y": 64,
+        "z": 720,
+        "text": "Player Town: Krosis",
+        "hovertext": "Krosis"
+    },
+    {
+        "x": -32,
+        "y": 64,
+        "z": 1328,
+        "text": "Player Town: Ecclesia",
+        "hovertext": "Ecclesia"
+    },
+    {
+        "x": -1424,
+        "y": 64,
+        "z": -80,
+        "text": "Player Town: Loiphe",
+        "hovertext": "Loiphe"
+    },
+    {
+        "x": -432,
+        "y": 64,
+        "z": 112,
+        "text": "Player Town: Nuzli",
+        "hovertext": "Nuzli"
+    },
+    {
+        "x": -240,
+        "y": 64,
+        "z": 1792,
+        "text": "Player Town: LostBalrud",
+        "hovertext": "LostBalrud"
+    },
+    {
+        "x": -288,
+        "y": 64,
+        "z": -400,
+        "text": "Player Town: OlvaSound",
+        "hovertext": "OlvaSound"
+    },
+    {
+        "x": -1280,
+        "y": 64,
+        "z": 800,
+        "text": "Player Town: Encounter",
+        "hovertext": "Encounter"
+    },
+    {
+        "x": 944,
+        "y": 64,
+        "z": 1296,
+        "text": "Player Town: Praecentia",
+        "hovertext": "Praecentia"
+    },
+    {
+        "x": -3296,
+        "y": 64,
+        "z": 928,
+        "text": "Player Town: Eminor",
+        "hovertext": "Eminor"
+    },
+    {
+        "x": -1744,
+        "y": 64,
+        "z": 16,
+        "text": "Player Town: Jordan",
+        "hovertext": "Jordan"
+    },
+    {
+        "x": -320,
+        "y": 64,
+        "z": 336,
+        "text": "Player Town: Kats_Grove",
+        "hovertext": "Kats_Grove"
+    },
+    {
+        "x": 176,
+        "y": 64,
+        "z": 96,
+        "text": "Player Town: Protected",
+        "hovertext": "Protected"
+    },
+    {
+        "x": 1616,
+        "y": 64,
+        "z": -1824,
+        "text": "Player Town: Salem",
+        "hovertext": "Salem"
+    },
+    {
+        "x": 3376,
+        "y": 64,
+        "z": 2272,
+        "text": "Player Town: Virumaa",
+        "hovertext": "Virumaa"
+    },
          {
             "y":69,
             "x":-104,
