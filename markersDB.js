@@ -691,7 +691,7 @@ var markersDB={
       "name":"Spells",
       "created":false
    },
-   "Town834a_cc2f":{
+   "Player_cc2f":{
       "raw":[
 {
         "x": 192,
@@ -937,7 +937,13 @@ var markersDB={
         "z": 2272,
         "text": "Player Town: Virumaa",
         "hovertext": "Virumaa"
-    },
+    }
+      ],
+      "name":"Player",
+      "created":false
+   },
+   "Town834a_cc2f":{
+      "raw":[
          {
             "y":69,
             "x":-104,
