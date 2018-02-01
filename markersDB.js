@@ -993,6 +993,13 @@ var markersDB={
    "Dungeons307b_cc2f":{
       "raw":[
          {
+            "y":64,
+            "x":1388,
+            "hovertext":"Sirens Hold",
+            "z":258,
+            "text":"Siren creatures +\n Suggested lvl: 20 - 40"
+         },
+         {
             "y":69,
             "x":224,
             "hovertext":"Lost Balrud",
