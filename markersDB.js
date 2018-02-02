@@ -896,6 +896,20 @@ var markersDB={
         "text": "Player Town: Praecentia",
         "hovertext": "Praecentia"
     },
+	{
+        "x": 767,
+        "y": 68,
+        "z": 168,
+        "text": "Player Town: Salem",
+        "hovertext": "Salem"
+    },
+	{
+        "x": -425,
+        "y": 69,
+        "z": 1465,
+        "text": "Player Town: Iremia",
+        "hovertext": "Iremia"
+    },	
     {
         "x": -3296,
         "y": 64,
