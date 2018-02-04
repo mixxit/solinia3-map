@@ -1028,10 +1028,10 @@ var markersDB={
             "text":"Dungeon designed for specifically Halloween +\n Suggested lvl: 25 - 51"
          },
          {
-            "y":64,
-            "x":-234,
+            "x": 208,
+            "y": 64,
+            "z": 1264,
             "hovertext":"Nagul Rock",
-            "z":1263,
             "text":"An Orc based dungeon +\n Suggested lvl: 5 - 12"
          },
          {
