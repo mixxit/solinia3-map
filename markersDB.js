@@ -1089,7 +1089,15 @@ var markersDB={
             "hovertext":"Tower of Lost Souls",
             "z":2032,
             "text":"Tower of Lost Souls +\n Suggested lvl: 40 - 50"
+         },
+         {
+            "y":64,
+            "x":3197,
+            "hovertext":"The Garden of Ilenanore",
+            "z":2163,
+            "text":"The Garden of Ilenanore +\n Suggested lvl: 50+"
          }
+
       ],
       "name":"Dungeons",
       "created":false
