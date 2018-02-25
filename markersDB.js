@@ -1076,12 +1076,19 @@ var markersDB={
             "z":-61,
             "text":"Winter +\n Suggested lvl: 38 - 48"
          },
-		 {
+	 {
             "y":64,
             "x":-9334,
             "hovertext":"Fear dungeon [Raid]",
             "z":4434,
             "text":"Fear [Raid] +\n Suggested lvl: 45 - 55"
+         },
+	 {
+            "y":64,
+            "x":-2140,
+            "hovertext":"Tower of Lost Souls",
+            "z":2032,
+            "text":"Tower of Lost Souls +\n Suggested lvl: 40 - 50"
          }
       ],
       "name":"Dungeons",
