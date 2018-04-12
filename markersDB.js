@@ -1,4 +1,6 @@
 var markersDB={
+   "Regions":{
+   },
    "Spells_cc2f":{
       "raw":[
          {
