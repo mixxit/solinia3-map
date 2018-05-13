@@ -1020,6 +1020,20 @@ var markersDB={
             "z":258,
             "text":"Siren creatures +\n Suggested lvl: 20 - 40"
          },
+		 {
+            "y":64,
+            "x":408,
+            "hovertext":"Infernal Cathedral",
+            "z":-4318,
+            "text":"Fire elementals +\n Suggested lvl: 60 - 65+"
+         },
+		 {
+            "y":85,
+            "x":-1982,
+            "hovertext":"Terramore",
+            "z":3378,
+            "text":"Earth elementals +\n Suggested lvl: 35 - 45"
+         },
          {
             "y":69,
             "x":224,
