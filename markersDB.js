@@ -1036,9 +1036,9 @@ var markersDB={
          },
          {
             "y":69,
-            "x":224,
+            "x":-224,
             "hovertext":"Lost Balrud",
-            "z":1773,
+            "z":1774,
             "text":"Humanoid creatures +\n Suggested lvl: 8 - 16"
          },
          {
