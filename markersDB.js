@@ -700,6 +700,13 @@ var markersDB={
         "text": "Player Town: Morheim",
         "hovertext": "Morheim"
     },
+	{
+        "x": 2914,
+        "y": 64,
+        "z": -2048,
+        "text": "Player Town: Gordoruhl",
+        "hovertext": "Gordoruhl"
+    },
     {
         "x": -640,
         "y": 64,
