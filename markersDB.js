@@ -1028,6 +1028,13 @@ var markersDB={
             "text":"Fire elementals +\n Suggested lvl: 60 - 65+"
          },
 		 {
+            "y":78,
+            "x":3728,
+            "hovertext":"Daukastala",
+            "z":-128,
+            "text":"Undead Spirits"
+         },
+		 {
             "y":85,
             "x":-1982,
             "hovertext":"Terramore",
